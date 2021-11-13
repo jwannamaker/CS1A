@@ -1,9 +1,9 @@
 # Introduction to Computer Science I
-### Spring 2020
+## Spring 2020
 
 The first course in the Introduction to Computer Science series. Designed as a hands-on introduction to the field of computer science for students preparing to enter the field or who are looking for a general interest course. Includes an overview of the history of computers, their hardware, and systems software. Emphasizes algorithm development using modern design methodologies and programming concepts up to and including looping algorithms, functions, and arrays. Programs implemented in a contemporary high-level-language, currently C++.
 
-## Topics Covered
+### Topics Covered
 1. Overview of computer hardware and software
 2. Overview of the Von Neumann architecture
 3. History of the development of computing machinery
