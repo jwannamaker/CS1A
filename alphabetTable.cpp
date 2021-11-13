@@ -1,6 +1,3 @@
-//  Name: Johnny Wannamaker
-//  Course: CS1A
-//  Project: HW_6b
 //  Date: 3/12/2020
 //  Description: This program lets the user view the alphabet in either uppercase
 //  or lower case. printf is utilized for formatting the output.
